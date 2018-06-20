@@ -1,4 +1,5 @@
-# config-new-mac
+# Configure a new Mac
+
 Configuration files required for setting up a new Mac
 
 # Install tools
