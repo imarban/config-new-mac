@@ -6,7 +6,6 @@ Configuration files required for setting up a new Mac
 
 ### Install brew
 
-
 ```/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"```
 
 ### Install Python
@@ -18,8 +17,8 @@ Configuration files required for setting up a new Mac
 ### Install Vim
 ```brew install vim```
 
-### Install Powerline
-```pip3 install powerline powerline_fonts```
+### Install NerdFonts
+https://github.com/ryanoasis/nerd-fonts
 
 ### Install iTerm
 https://www.iterm2.com/
@@ -38,9 +37,4 @@ https://www.iterm2.com/
 
 ### Download and install Postgres app
 https://postgresapp.com/
-
-### Install powerline-shell
-```pip3 install powerline-shell```
-
-
 
